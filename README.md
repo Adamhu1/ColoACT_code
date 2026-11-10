@@ -49,5 +49,18 @@ paths.
 
 ## Citation
 
-See the project paper for the citation information.
+If you use this code or build on this work, please cite:
+
+**Paper:** [ColoACT: Multi-Cue Action Chunking for Smooth Autonomous Colon Navigation on a Self-Propelled Endoscopic Robot](https://arxiv.org/abs/2610.01258)<br>
+**Project page:** [adamhu1.github.io/ColoACT](https://adamhu1.github.io/ColoACT/)
+
+```bibtex
+@article{hu2026coloact,
+	title         = {ColoACT: Multi-Cue Action Chunking for Smooth Autonomous Colon Navigation on a Self-Propelled Endoscopic Robot},
+	author        = {Hu, Jian and He, Shujing and Chang, Leixin and Li, Zongze and Huang, Ding and Shi, Chaoyang and Hu, Chengzhi},
+	journal       = {arXiv preprint arXiv:2610.01258},
+	year          = {2026},
+	doi           = {10.48550/arXiv.2610.01258}
+}
+```
 
