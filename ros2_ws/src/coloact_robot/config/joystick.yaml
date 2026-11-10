@@ -1,0 +1,20 @@
+﻿teleop_twist_joy:
+  ros__parameters:
+    # 姝ｇ‘鐨勮酱鏄犲皠
+    axis_linear:
+      x: 1    # 杞?锛氫笂涓?鈫?鍓嶈繘鍚庨€€
+    axis_angular:
+      yaw: 0  # 杞?锛氬乏鍙?鈫?杞悜
+    
+    # 閫熷害缂╂斁
+    scale_linear:
+      x: 0.4
+    scale_angular:
+      yaw: 0.8
+    
+    # 涓嶉渶瑕佸惎鐢ㄦ寜閽?
+    enable_button: -1
+    require_enable_button: false
+    
+    # 姝诲尯璁剧疆
+    axis_deadzone: 0.1

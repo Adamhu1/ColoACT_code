@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+
+# Private data and generated artifacts
+data/
+datasets/
+outputs/
+checkpoints/
+*.h5
+*.pth
+*.pt
+*.ckpt
+*.csv
+*.log
+wandb/
+
+# Local and machine-specific files
+.env
+.vscode/
+*.swp
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
