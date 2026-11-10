@@ -7,7 +7,7 @@ name = "coloact"
 version = "0.1.0"
 description = "RGB-D-E Action Chunking Transformer for autonomous colon navigation"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.8"
 dependencies = [
     "h5py",
     "matplotlib",

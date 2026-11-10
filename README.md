@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-	<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%3E%3D3.9-3776AB?logo=python&logoColor=white" alt="Python 3.9 or newer"></a>
+	<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8.10-3776AB?logo=python&logoColor=white" alt="Python 3.8.10"></a>
 	<a href="https://opensource.org/license/mit/"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License"></a>
 	<a href="https://arxiv.org/abs/2610.01258"><img src="https://img.shields.io/badge/arXiv-2610.01258-b31b1b.svg" alt="arXiv 2610.01258"></a>
 </p>
