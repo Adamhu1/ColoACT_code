@@ -3,8 +3,6 @@
 Research code for **ColoACT: Multi-Cue Action Chunking for Smooth Autonomous
 Colon Navigation on a Self-Propelled Endoscopic Robot**.
 
-The repository is organized for public release. Private datasets, checkpoints,
-experiment logs, and machine-specific paths are intentionally excluded.
 
 ## Repository layout
 
